@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string-array name="spin_name">
+        <item>
+            Venky
+        </item>
+        <item>
+            Venkatesh
+        </item>
+        <item>Haunter</item>
+        <item>Striver</item>
+    </string-array>
+</resources>
